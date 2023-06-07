@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I’m currently working at [Solidity Finance Smart Contract Audit Services](https://solidity.finance/) 
+I’m currently working at [SourceHat - Smart Contract Audit & Development Services](https://sourcehat.com/) (formerly known as Solidity Finance)
 
-**Solidity Finance**  is an experienced Solidity Smart Contract Auditing firm focusing on ensuring security in the DeFi ecosystem. The firm's audits help to protect over $10 billion USD in on-chain value across 1000+ projects. 
+**SourceHat**  is an experienced Solidity Smart Contract Auditing firm focusing on ensuring security in the DeFi ecosystem. The firm's audits help to protect over $50 billion USD in on-chain value across 1700+ projects. 
 
-[Get a free quote for a smart contract audit today!.](https://solidity.finance/#four)
+[Get a free quote for a smart contract audit today!.](https://sourcehat.com/)
 
-![Solidity Finance Smart Contract Audit Services](https://solidity.finance/images/logo-designs/Solidity%20Finance%20Logo%20JPG%20RGB-01.jpg)
+![SourceHat Labs Inc.](https://solidity.finance/images/logo-designs/Solidity%20Finance%20Logo%20JPG%20RGB-01.jpg)
